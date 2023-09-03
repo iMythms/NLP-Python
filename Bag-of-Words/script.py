@@ -19,7 +19,7 @@ nltk.download('wordnet')
 # Change text to another string:
 text = looking_glass_text
 
-cleaned = re.sub('\W+', ' ', text).lower()
+cleaned = re.sub('\W+', ' ', text).upper()
 tokenized = word_tokenize(cleaned)
 
 stopwords_list = stopwords.words('english')

@@ -1,64 +1,27 @@
 looking_glass_text = """
-Indeed, the mysterious object kept growing, taking on an increasingly human-like appearance. By the time she was just a few steps away, it was unmistakably an entity with facial features—eyes, a nose, a mouth. It could be none other than the infamous HUMPTY DUMPTY. That much was certain, as though his identity was written across his visage.
+As the clock struck midnight, Sarah found herself in a mysterious library. It was unlike any she had ever visited. Vast and infinite, the shelves seemed to stretch into the horizon, each filled with countless volumes of unknown lore.
 
-His large face could easily have accommodated the name a hundredfold. Perched atop a towering, narrow wall with legs folded in a manner reminiscent of a yogi, Humpty Dumpty paid no attention to her. His gaze was fixated elsewhere, leading her to believe he might just be an inanimate sculpture.
+Not a soul was in sight, yet the atmosphere was charged with a certain energy. It was as if the very walls were whispering secrets to her, and each book was an untold story begging to be opened.
 
-"What a remarkable resemblance to an egg," she commented, her hands poised to catch him, expecting him to topple at any moment.
+Sarah cautiously approached one of the shelves and picked up an old, leather-bound book. Its title was written in golden letters but in a language she couldn't understand. Intrigued, she opened it and immediately felt a gust of wind, as if the book itself were alive.
 
-"Quite irritating to be constantly referred to as an egg," Humpty Dumpty finally spoke, without making eye contact.
+"I've been waiting for someone like you," said a voice behind her. She turned to find an old librarian, his eyes twinkling like stars.
 
-"I said you resembled an egg," she clarified softly, adding, "And some eggs are quite aesthetically pleasing," hoping to smooth over her earlier statement.
+"I didn't think anyone was here," Sarah stammered.
 
-"Sense is something that seems to elude certain individuals," he retorted, still not facing her.
+"There's always someone here," the librarian replied with a warm smile, "though not always someone who can hear the whispers of the books."
 
-Left without a proper reply, she started muttering a nursery rhyme under her breath:
+"Why are you here so late?" she asked, puzzled by his presence.
 
-    Humpty Dumpty perched on a ledge,
-    Humpty Dumpty teetered on the edge.
-    Neither King's cavalry nor King's men,
-    Could ever restore Humpty's position again.
+"The question is, why are you here?" he returned. "You see, time flows differently in this library. It is not bound by the constraints of the outside world. You're here because you're searching for something, aren't you?"
 
-"The final line doesn't quite fit the metric structure," she almost said out loud, but then remembered he would hear her.
+Sarah paused, reflecting on his words. Indeed, she had always been a seeker of knowledge, curious about the unknown.
 
-"Stop mumbling to yourself and state your purpose," he demanded, finally acknowledging her presence.
+"Yes," she finally admitted, "I'm searching for answers. Answers to questions I don't even know."
 
-"My name is Alice," she started, but he cut her off.
+"Ah, the best kind of quest," the librarian nodded approvingly. "In that case, you should start with this book," he said, handing her another volume.
 
-"An uninspiring name, to say the least," he interrupted. "Does it signify anything?"
+She looked at the cover and found her name written on it. Amazed, she opened the first page and started reading. What she found was her own story, yet filled with chapters she had not yet lived.
 
-"Should a name signify something?" she questioned.
-
-"Absolutely," he snorted. "My name signifies my form, which is strikingly handsome, if I may say so. With a name like Alice, one could be anything."
-
-"Why are you sitting here all alone?" she queried, hoping to avoid a confrontation.
-
-"Because there's no one else here, obviously," he huffed, visibly annoyed by the question.
-
-"Wouldn't it be safer on the ground?" she ventured, worried about his precarious position.
-
-"Child's play, these questions of yours," he grumbled. "There's no chance I'd fall, but even if I did..." His expression turned so austere that she nearly burst into laughter. "Even if I did, the King would send his entire brigade to fetch me."
-
-"To fetch you with all his horses and all his men?" she interjected.
-
-"How dare you eavesdrop!" he roared. "You must have been spying to know that!"
-
-"Actually, it's common knowledge, found in a book," she reassured him.
-
-"Ah, history books," he muttered, calming down. "Very well, I'll let you shake hands with a creature who has conversed with a King. And don't worry about my mouth extending too far. My head won't come off."
-
-"Are you sure you'd be saved so quickly?" she went on.
-
-"Of course! But let's slow down, this conversation is getting ahead of itself."
-
-"I can't recall your last comment," she admitted.
-
-"Then we'll start anew," he concluded, "And now it's my turn to quiz you. State your age."
-
-She quickly did the math and responded, "Seven years and six months."
-
-"Incorrect," he boasted. "You never mentioned such a thing!"
-
-"You misunderstood," she sighed. "I thought you were asking about my age."
-
-"If I'd meant that, I would have said so," retorted Humpty Dumpty.
+"In this library, you're not just a visitor; you're a story waiting to be written," the librarian said, vanishing into the labyrinth of books, leaving Sarah alone with a universe of untold possibilities.
 """
