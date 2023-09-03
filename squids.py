@@ -1,0 +1,1 @@
+squids_text = "Last weekend, I saw squids painting graffiti on the city walls. Their art was surprisingly detailed. One of them even wore a beret and skillfully used its tentacles to handle the spray cans. It's not every day that you see such creative cephalopods."
