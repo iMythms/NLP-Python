@@ -1,5 +1,6 @@
 import nltk
 import re
+import spacy
 from sherlock_holmes import bohemia_ch1, bohemia_ch2, bohemia_ch3, boscombe_ch1, boscombe_ch2, boscombe_ch3
 from preprocessing import preprocess_text
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
