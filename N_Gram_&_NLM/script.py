@@ -21,7 +21,7 @@ looking_glass_trigrams = ngrams(tokenized, 3)
 looking_glass_trigrams_frequency = Counter(looking_glass_trigrams)
 
 # Change the n value to a number greater than 3:
-looking_glass_ngrams = ngrams(tokenized, 8)
+looking_glass_ngrams = ngrams(tokenized, 5)
 looking_glass_ngrams_frequency = Counter(looking_glass_ngrams)
 
 print("Looking Glass Bigrams:")
